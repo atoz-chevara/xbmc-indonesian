@@ -1,2 +1,4 @@
 # xbmc-indonesian
-XBMC Indonesian streaming repo for streaming sites
+XBMC Indonesian streaming sites repo.
+
+The repository can be installed from zip
