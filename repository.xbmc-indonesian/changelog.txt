@@ -1,3 +1,8 @@
+[B]Version 1.0.2[/B]
+- Update typo
+- Fix version
+- Change provider name
+
 [B]Version 1.0.1[/B]
 - Update typo
 
