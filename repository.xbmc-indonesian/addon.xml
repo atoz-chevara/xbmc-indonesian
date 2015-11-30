@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.xbmc-indonesian" name=".[COLOR red]XBMC Indonesian [/COLOR][COLOR white] Streaming Sites[/COLOR]" version="1.0.0" provider-name="aceh-creative-labs">
+    <extension point="xbmc.addon.repository" name="XBMC Indonesian streaming repo for streaming sites">
+        <info compressed="false">https://raw.githubusercontent.com/atoz-chevara/xbmc-indonesian/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/atoz-chevara/xbmc-indonesian/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/atoz-chevara/xbmc-indonesian/master/repo</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>XBMC Indonesian Streaming Sites</summary>
+        <description>Download and install addons for XBMC Indonesian streaming repo for streaming sites</description>
+        <platform>all</platform>
+    </extension>
+</addon>
